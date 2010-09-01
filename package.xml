@@ -1,0 +1,11 @@
+<package>
+  <name>PetitParserTests</name>
+  <namespace>PP</namespace>
+
+  <url>git://gitorious.org/gnu-smalltalk-ports/petitparser-tests.git</url>
+  <prereq>PetitParser</prereq>
+  <prereq>SUnit</prereq>
+  <filein>PetitParserTests.st</filein>
+
+  <file>PetitParserTests.st</file>
+</package>
